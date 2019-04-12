@@ -2,7 +2,6 @@
 Simply desktop application to collect and record sensor values from an [OPC DA](https://en.wikipedia.org/wiki/OPC_Data_Access) server.
 
 ## 1) How to use
-![Demonstraion](https://github.com/brunomsantiago/py_opcda_datalogger/raw/master/docs/py_opcda_datalogger_demo.gif "Simple OPC DA Datalogger demonstration")
 - Run gui.py
 - Choose and connect to an OPC DA server
 - Choose which tags you want to record
